@@ -1,3 +1,12 @@
+/*
+File: index.html
+Author: VTG
+Copyright: 2024, VTG
+Group: Szoft I/1/N
+Date: 2024-05-30
+Github: https://github.com/valaki2004/
+Licenc: GNU GPL
+*/
 class Terfogat {
     sideAInput?: HTMLInputElement | null;
     sideBInput?: HTMLInputElement | null;
